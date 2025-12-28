@@ -27,6 +27,8 @@
 - **Impact:** Catastrophic
 - **Mitigation:** Avoid serac zones, travel at night when stable.
 
+**New Icefall Hazard Identified:** Recent satellite imagery indicates increased calving activity in the eastern icefall. The serac instability may pose additional risk during midday temperature peaks. Team must consider alternate route via western ridge.
+
 ## Equipment Checklist
 - Personal anchor tethers (rated 22 kN)
 - 60-meter 7mm Perlon cord (2x)
